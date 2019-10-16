@@ -1,0 +1,46 @@
+ .menu {
+ color: #402E2A;
+ text-align: center;  
+ background-color: #D5B0AC;
+
+}
+.menu > span {
+     font-weight: bold;
+     font-size: 15px;
+    width: 120px;
+    height: 30px;
+    padding-right: 70px;
+    box-sizing: border-box;
+}
+.menu > span:hover {
+    color: #FFFFFF;
+    background-color: #9CD08F;
+}
+.menu_vertical {
+    text-align: left;
+    display: grid;
+    width: 10px;
+    height: 30px;
+    text-align: center;
+
+}
+.item {
+    border-bottom: white solid 2px;
+    box-sizing: border-box;
+    background-color: #D5B0AC;
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
